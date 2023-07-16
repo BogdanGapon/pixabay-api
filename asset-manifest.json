@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pixabay-api/static/js/main.e45d4776.js",
+    "main.js": "/pixabay-api/static/js/main.6cf15440.js",
     "index.html": "/pixabay-api/index.html",
-    "main.e45d4776.js.map": "/pixabay-api/static/js/main.e45d4776.js.map"
+    "main.6cf15440.js.map": "/pixabay-api/static/js/main.6cf15440.js.map"
   },
   "entrypoints": [
-    "static/js/main.e45d4776.js"
+    "static/js/main.6cf15440.js"
   ]
 }
