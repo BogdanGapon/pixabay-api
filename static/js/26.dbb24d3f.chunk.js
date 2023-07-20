@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpixabay_api=self.webpackChunkpixabay_api||[]).push([[26],{26:function(a,e,i){i.r(e);var u=i(184);e.default=function(){return(0,u.jsx)("div",{children:"Hello I am About"})}}}]);
+//# sourceMappingURL=26.dbb24d3f.chunk.js.map
